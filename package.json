@@ -1,0 +1,20 @@
+{
+  "author": "Jonathon Gray <jonathon@jonathongray.com> (jonathongray.com)",
+  "name": "gray_matter-validation",
+  "description": "Nodejs validation functions",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jdgray/validation.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
